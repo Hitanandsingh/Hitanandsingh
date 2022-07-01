@@ -3,5 +3,4 @@
 
 - 🎓   I am a 3rd Year Undergrad pursuing BSc (Hons) Computer Science with Network Security from UTM.
 - 👨‍💻   Research Interests: Computer Vision, Deep Learning, IOT.
-- 💖   Fun Fact - The name for “robot” has dark origins.
-- :musical_note:
+- :skull:	   Fun Fact - The name for “robot” has dark origins.
